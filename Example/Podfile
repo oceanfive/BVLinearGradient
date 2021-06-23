@@ -1,0 +1,6 @@
+use_frameworks!
+target 'BVLinearGradient_Tests' do
+  pod 'BVLinearGradient', :path => '../'
+  
+  
+end
